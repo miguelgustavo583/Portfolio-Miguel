@@ -1,6 +1,5 @@
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Imagens/eteczl.png" alt="Texto alternativo" width="50" height="50">
   <img src="Imagens/IBM-Logo.png" alt="Texto alternativo" width="50" height="50">
 </div>
 
